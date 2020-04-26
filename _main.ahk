@@ -17,7 +17,12 @@ Pause::Suspend
 #Include f5_firefox_hackbar.ahk
 #Include f5_f6_pycharm.ahk
 
-;  #Include st_f5_xshell.ahk
+; not fit cross platform
+#Include _rapid_apps2.ahk
+
+
+
+
 
 return
 
