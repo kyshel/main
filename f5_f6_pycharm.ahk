@@ -1,4 +1,5 @@
-#IfWinActive, PyCharm
+#IfWinActive, ahk_exe pycharm64.exe
+; #IfWinActive, PyCharm
 
 F5::
 send, ^+{f10}
